@@ -38,7 +38,7 @@ public class controller {
 				
 				list.add(bi);
 			}
-//			 rs.close();
+			 rs.close();
 		} catch(SQLException e)
 		{
 			e.printStackTrace();
